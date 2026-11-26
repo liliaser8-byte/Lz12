@@ -25,7 +25,7 @@ Forms).**
 
 ```cpp
 #include <list>
-
+#include <iterator> // для std::advance
 ```
 
 ### Код 
